@@ -32,3 +32,8 @@ permet de creer une branche ou un repertoire
 
 ## git pull
 permet de recuperer mes modifications distantes
+
+## git rebase
+- permet de recuperer les modifications dans la branche mere
+- les modificatins de la brache mere sont placees en dessous des modifications de la branche courante
+- les modifications de la branche courante sont placees au dessus des modifications de la branche mere
