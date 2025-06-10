@@ -29,3 +29,6 @@ permet de creer une branche ou un repertoire
 - permet de passer d'une branche a une autre
 - permet de se deplacer d'une  branche a une autre
 - avec l'option -b checkout creer la branche si elle n'existe pas
+
+## git pull
+permet de recuperer mes modifications distantes
