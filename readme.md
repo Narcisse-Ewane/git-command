@@ -16,8 +16,16 @@ le message est important
 permet de pousser les modifications en ligne
 
 ## git status
--permet de verifier le statut du repertoire
--permet de lister les modifications a traiter
+- permet de verifier le statut du repertoire
+- permet de lister les modifications a traiter
 
 ## git log
 permet de voir l'ensemble des modification de votre projet en local
+
+## git branch
+permet de creer une branche ou un repertoire
+
+## git checkout
+- permet de passer d'une branche a une autre
+- permet de se deplacer d'une  branche a une autre
+- avec l'option -b checkout creer la branche si elle n'existe pas
