@@ -1,1 +1,3 @@
-command git
+# command git
+
+liste des commandes
